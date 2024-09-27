@@ -1,0 +1,6 @@
+Mutation_ID	Gene_Symbol	Mutation_Type	DNA_Sequence_Change	Protein_Change	Clinical_Significance	Disease_Association
+1	BRCA1	Substitution	c.68_69delAG	p.Glu23Valfs*17	Pathogenic	Breast Cancer
+2	CFTR	Deletion	c.1521_1523delCTT	p.Phe508del	Pathogenic	Cystic Fibrosis
+3	TP53	Duplication	c.375+1G>A	p.Arg125His	Likely Pathogenic	Li-Fraumeni Syndrome
+4	EGFR	Insertion	c.2235_2249del15	p.Glu746_Ala750del	Pathogenic	Lung Cancer
+5	MLH1	Substitution	c.545G>A	p.Val182Met	Likely Benign	Lynch Syndrome
